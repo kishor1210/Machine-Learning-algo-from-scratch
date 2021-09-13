@@ -1,2 +1,2 @@
-# End_to_end_ml_project
+# ML Algos
 Machine Learning algo from scratch
